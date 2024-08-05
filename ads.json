@@ -1,1 +1,18 @@
-{}
+{
+    "sample-gluu": {
+        "projectName": "sample-gluu",
+        "description": "openid",
+        "type": "community",
+        "author": "Annbuvel",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Annbuvel/agama",
+        "githubUri": "https://github.com/Annbuvel/agama",
+        "license": "apache-2.0",
+        "lastUpdated": "1722881247332",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
